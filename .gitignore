@@ -8,3 +8,5 @@
 .DS_Store
 
 *.pdf
+
+/systems/.venv
